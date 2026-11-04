@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="380" viewBox="0 0 1280 380">
+      <rect width="1280" height="380" rx="24" fill="#11141c"/>
+      <path d="M980 -60 1320 280M890 -60 1320 370M800 -60 1240 380" stroke="#e7bd65" stroke-opacity=".12" stroke-width="50"/>
+      <circle cx="1140" cy="90" r="100" fill="#e7bd65" fill-opacity=".08"/>
+      <text x="64" y="74" font-family="monospace" font-size="14" letter-spacing="4" fill="#e7bd65">OPEN SOURCE / BUILT TO BE USED</text>
+      <text x="60" y="168" font-family="sans-serif" font-weight="700" font-size="66" fill="#f3f3f7">Baconira Bot</text>
+      <text x="64" y="224" font-family="sans-serif" font-size="25" fill="#a9afc1">A small community, with its paperwork in order.</text><rect x="64" y="281" width="169" height="36" rx="18" fill="#e7bd65" fill-opacity=".12"/><text x="81" y="305" fill="#e7bd65" font-family="sans-serif" font-size="15">Private tickets</text><rect x="245" y="281" width="205" height="36" rx="18" fill="#e7bd65" fill-opacity=".12"/><text x="262" y="305" fill="#e7bd65" font-family="sans-serif" font-size="15">Offline transcripts</text><rect x="462" y="281" width="133" height="36" rx="18" fill="#e7bd65" fill-opacity=".12"/><text x="479" y="305" fill="#e7bd65" font-family="sans-serif" font-size="15">Voice rooms</text>
+    </svg>
