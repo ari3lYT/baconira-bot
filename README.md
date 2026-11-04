@@ -1,3 +1,5 @@
+**English** · [Русский](README.ru.md)
+
 ![Baconira Bot](docs/assets/cover.svg)
 
 # Baconira Bot
@@ -7,7 +9,7 @@ A Discord community bot for private support tickets, citizenship applications, p
 [![CI](https://github.com/ari3lYT/baconira-bot/actions/workflows/ci.yml/badge.svg)](https://github.com/ari3lYT/baconira-bot/actions/workflows/ci.yml)
 [![License: MIT](https://img.shields.io/badge/license-MIT-87bfa3)](LICENSE)
 
-[Quick start](#quick-start) · [Architecture](docs/architecture.md) · [Development](docs/development.md) · [Русский](docs/README.ru.md)
+[Quick start](#quick-start) · [Architecture](docs/architecture.md) · [Development](docs/development.md)
 
 
 ## See it

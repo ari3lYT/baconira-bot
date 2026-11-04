@@ -1,3 +1,5 @@
+**English** · [Русский](development.ru.md)
+
 # Development
 
 Run `python -m unittest discover -s tests -v` after installing `requirements.txt`. The tests mock Discord

@@ -1,3 +1,5 @@
+**English** · [Русский](configuration.ru.md)
+
 # Configuration
 
 | Setting | Purpose |
